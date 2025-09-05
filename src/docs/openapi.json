@@ -1,0 +1,197 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+        "title": "API for Booking app",
+        "version": "1.0.0",
+        "description": "API for Booking app"
+    },
+    "servers": [
+        {
+            "url": "http://localhost:5000"
+        }
+    ],
+    "paths": {
+        "/healthz": {
+            "get": {
+                "summary": "Health check",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "example": {
+                                    "Ok": true,
+                                    "Service": "BookingAPI"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/booking": {
+            "get": {
+                "summary": "List hotels",
+                "responses": {
+                    "200": {
+                        "description": "List of hotels",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/Hotel"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/booking/getHotelByLocationID": {
+            "post": {
+                "summary": "Get hotel by LocationId",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "LocationID": {
+                                        "type": "string",
+                                        "example": "mae-sai-cri"
+                                    },
+                                    "BookDateFrom": {
+                                        "type": "string",
+                                        "format": "date",
+                                        "example": "2025-09-10"
+                                    },
+                                    "BookDateTo": {
+                                        "type": "string",
+                                        "format": "date",
+                                        "example": "2025-09-15"
+                                    },
+                                    "RoomNumber": {
+                                        "type": "integer",
+                                        "example": 2
+                                    },
+                                    "AdultNumber": {
+                                        "type": "integer",
+                                        "example": 4
+                                    },
+                                    "ChildrenNumber": {
+                                        "type": "integer",
+                                        "example": 1
+                                    }
+                                },
+                                "required": [
+                                    "LocationID"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Hotel",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Hotel"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Error"
+                                },
+                                "example": {
+                                    "Message": "Hotel not found"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Location": {
+                "type": "object",
+                "properties": {
+                    "Id": {
+                        "type": "string",
+                        "example": "pai-mhs"
+                    },
+                    "Label": {
+                        "type": "string",
+                        "example": "Pai, Mae Hong Son"
+                    }
+                },
+                "required": [
+                    "Id",
+                    "Label"
+                ]
+            },
+            "Hotel": {
+                "type": "object",
+                "properties": {
+                    "ID": {
+                        "type": "string",
+                        "example": "pai-mhs-H001"
+                    },
+                    "Name": {
+                        "type": "string",
+                        "example": "Pai Riverside Resort"
+                    },
+                    "Price": {
+                        "type": "number",
+                        "format": "float",
+                        "example": 1500
+                    },
+                    "LocationID": {
+                        "type": "string",
+                        "example": "pai-mhs"
+                    },
+                    "LocationName": {
+                        "type": "string",
+                        "example": "pai-mhs"
+                    },
+                    "ImagePath": {
+                        "type": "string",
+                        "example": "/images/hotels/pai-riverside.jpg"
+                    },
+                    "RoomType": {
+                        "type": "string",
+                        "example": "Deluxe"
+                    }
+                },
+                "required": [
+                    "Id",
+                    "Name",
+                    "Price",
+                    "Location",
+                    "RoomType"
+                ]
+            },
+            "Error": {
+                "type": "object",
+                "properties": {
+                    "Message": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}
