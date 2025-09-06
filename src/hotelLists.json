@@ -5,7 +5,7 @@
         "Price": 1107,
         "LocationID": "pai-mhs",
         "LocationName": "Pai, Mae Hong Son",
-        "ImagePath": "/images/hotels/pai-mhs/hotel-1.jpg",
+        "ImagePath": "/img/hotels/pai-mhs/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -14,7 +14,7 @@
         "Price": 1207,
         "LocationID": "pai-mhs",
         "LocationName": "Pai, Mae Hong Son",
-        "ImagePath": "/images/hotels/pai-mhs/hotel-2.jpg",
+        "ImagePath": "/img/hotels/pai-mhs/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -23,7 +23,7 @@
         "Price": 1307,
         "LocationID": "pai-mhs",
         "LocationName": "Pai, Mae Hong Son",
-        "ImagePath": "/images/hotels/pai-mhs/hotel-3.jpg",
+        "ImagePath": "/img/hotels/pai-mhs/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -32,7 +32,7 @@
         "Price": 1407,
         "LocationID": "pai-mhs",
         "LocationName": "Pai, Mae Hong Son",
-        "ImagePath": "/images/hotels/pai-mhs/hotel-4.jpg",
+        "ImagePath": "/img/hotels/pai-mhs/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -41,7 +41,7 @@
         "Price": 1507,
         "LocationID": "pai-mhs",
         "LocationName": "Pai, Mae Hong Son",
-        "ImagePath": "/images/hotels/pai-mhs/hotel-5.jpg",
+        "ImagePath": "/img/hotels/pai-mhs/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -50,7 +50,7 @@
         "Price": 1115,
         "LocationID": "chiangkhan-loei",
         "LocationName": "Chiang Khan, Loei",
-        "ImagePath": "/images/hotels/chiangkhan-loei/hotel-1.jpg",
+        "ImagePath": "/img/hotels/chiangkhan-loei/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -59,7 +59,7 @@
         "Price": 1215,
         "LocationID": "chiangkhan-loei",
         "LocationName": "Chiang Khan, Loei",
-        "ImagePath": "/images/hotels/chiangkhan-loei/hotel-2.jpg",
+        "ImagePath": "/img/hotels/chiangkhan-loei/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -68,7 +68,7 @@
         "Price": 1315,
         "LocationID": "chiangkhan-loei",
         "LocationName": "Chiang Khan, Loei",
-        "ImagePath": "/images/hotels/chiangkhan-loei/hotel-3.jpg",
+        "ImagePath": "/img/hotels/chiangkhan-loei/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -77,7 +77,7 @@
         "Price": 1415,
         "LocationID": "chiangkhan-loei",
         "LocationName": "Chiang Khan, Loei",
-        "ImagePath": "/images/hotels/chiangkhan-loei/hotel-4.jpg",
+        "ImagePath": "/img/hotels/chiangkhan-loei/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -86,7 +86,7 @@
         "Price": 1515,
         "LocationID": "chiangkhan-loei",
         "LocationName": "Chiang Khan, Loei",
-        "ImagePath": "/images/hotels/chiangkhan-loei/hotel-5.jpg",
+        "ImagePath": "/img/hotels/chiangkhan-loei/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -95,7 +95,7 @@
         "Price": 1111,
         "LocationID": "amphawa-ssk",
         "LocationName": "Amphawa, Samut Songkhram",
-        "ImagePath": "/images/hotels/amphawa-ssk/hotel-1.jpg",
+        "ImagePath": "/img/hotels/amphawa-ssk/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -104,7 +104,7 @@
         "Price": 1211,
         "LocationID": "amphawa-ssk",
         "LocationName": "Amphawa, Samut Songkhram",
-        "ImagePath": "/images/hotels/amphawa-ssk/hotel-2.jpg",
+        "ImagePath": "/img/hotels/amphawa-ssk/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -113,7 +113,7 @@
         "Price": 1311,
         "LocationID": "amphawa-ssk",
         "LocationName": "Amphawa, Samut Songkhram",
-        "ImagePath": "/images/hotels/amphawa-ssk/hotel-3.jpg",
+        "ImagePath": "/img/hotels/amphawa-ssk/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -122,7 +122,7 @@
         "Price": 1411,
         "LocationID": "amphawa-ssk",
         "LocationName": "Amphawa, Samut Songkhram",
-        "ImagePath": "/images/hotels/amphawa-ssk/hotel-4.jpg",
+        "ImagePath": "/img/hotels/amphawa-ssk/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -131,7 +131,7 @@
         "Price": 1511,
         "LocationID": "amphawa-ssk",
         "LocationName": "Amphawa, Samut Songkhram",
-        "ImagePath": "/images/hotels/amphawa-ssk/hotel-5.jpg",
+        "ImagePath": "/img/hotels/amphawa-ssk/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -140,7 +140,7 @@
         "Price": 1113,
         "LocationID": "sattahip-chon",
         "LocationName": "Sattahip, Chonburi",
-        "ImagePath": "/images/hotels/sattahip-chon/hotel-1.jpg",
+        "ImagePath": "/img/hotels/sattahip-chon/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -149,7 +149,7 @@
         "Price": 1213,
         "LocationID": "sattahip-chon",
         "LocationName": "Sattahip, Chonburi",
-        "ImagePath": "/images/hotels/sattahip-chon/hotel-2.jpg",
+        "ImagePath": "/img/hotels/sattahip-chon/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -158,7 +158,7 @@
         "Price": 1313,
         "LocationID": "sattahip-chon",
         "LocationName": "Sattahip, Chonburi",
-        "ImagePath": "/images/hotels/sattahip-chon/hotel-3.jpg",
+        "ImagePath": "/img/hotels/sattahip-chon/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -167,7 +167,7 @@
         "Price": 1413,
         "LocationID": "sattahip-chon",
         "LocationName": "Sattahip, Chonburi",
-        "ImagePath": "/images/hotels/sattahip-chon/hotel-4.jpg",
+        "ImagePath": "/img/hotels/sattahip-chon/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -176,7 +176,7 @@
         "Price": 1513,
         "LocationID": "sattahip-chon",
         "LocationName": "Sattahip, Chonburi",
-        "ImagePath": "/images/hotels/sattahip-chon/hotel-5.jpg",
+        "ImagePath": "/img/hotels/sattahip-chon/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -185,7 +185,7 @@
         "Price": 1110,
         "LocationID": "huahin-pkk",
         "LocationName": "Hua Hin, Prachuap Khiri Khan",
-        "ImagePath": "/images/hotels/huahin-pkk/hotel-1.jpg",
+        "ImagePath": "/img/hotels/huahin-pkk/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -194,7 +194,7 @@
         "Price": 1210,
         "LocationID": "huahin-pkk",
         "LocationName": "Hua Hin, Prachuap Khiri Khan",
-        "ImagePath": "/images/hotels/huahin-pkk/hotel-2.jpg",
+        "ImagePath": "/img/hotels/huahin-pkk/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -203,7 +203,7 @@
         "Price": 1310,
         "LocationID": "huahin-pkk",
         "LocationName": "Hua Hin, Prachuap Khiri Khan",
-        "ImagePath": "/images/hotels/huahin-pkk/hotel-3.jpg",
+        "ImagePath": "/img/hotels/huahin-pkk/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -212,7 +212,7 @@
         "Price": 1410,
         "LocationID": "huahin-pkk",
         "LocationName": "Hua Hin, Prachuap Khiri Khan",
-        "ImagePath": "/images/hotels/huahin-pkk/hotel-4.jpg",
+        "ImagePath": "/img/hotels/huahin-pkk/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -221,7 +221,7 @@
         "Price": 1510,
         "LocationID": "huahin-pkk",
         "LocationName": "Hua Hin, Prachuap Khiri Khan",
-        "ImagePath": "/images/hotels/huahin-pkk/hotel-5.jpg",
+        "ImagePath": "/img/hotels/huahin-pkk/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -230,7 +230,7 @@
         "Price": 1113,
         "LocationID": "ao-luek-krabi",
         "LocationName": "Ao Luek, Krabi",
-        "ImagePath": "/images/hotels/ao-luek-krabi/hotel-1.jpg",
+        "ImagePath": "/img/hotels/ao-luek-krabi/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -239,7 +239,7 @@
         "Price": 1213,
         "LocationID": "ao-luek-krabi",
         "LocationName": "Ao Luek, Krabi",
-        "ImagePath": "/images/hotels/ao-luek-krabi/hotel-2.jpg",
+        "ImagePath": "/img/hotels/ao-luek-krabi/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -248,7 +248,7 @@
         "Price": 1313,
         "LocationID": "ao-luek-krabi",
         "LocationName": "Ao Luek, Krabi",
-        "ImagePath": "/images/hotels/ao-luek-krabi/hotel-3.jpg",
+        "ImagePath": "/img/hotels/ao-luek-krabi/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -257,7 +257,7 @@
         "Price": 1413,
         "LocationID": "ao-luek-krabi",
         "LocationName": "Ao Luek, Krabi",
-        "ImagePath": "/images/hotels/ao-luek-krabi/hotel-4.jpg",
+        "ImagePath": "/img/hotels/ao-luek-krabi/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -266,7 +266,7 @@
         "Price": 1513,
         "LocationID": "ao-luek-krabi",
         "LocationName": "Ao Luek, Krabi",
-        "ImagePath": "/images/hotels/ao-luek-krabi/hotel-5.jpg",
+        "ImagePath": "/img/hotels/ao-luek-krabi/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -275,7 +275,7 @@
         "Price": 1114,
         "LocationID": "ko-lanta-krabi",
         "LocationName": "Ko Lanta, Krabi",
-        "ImagePath": "/images/hotels/ko-lanta-krabi/hotel-1.jpg",
+        "ImagePath": "/img/hotels/ko-lanta-krabi/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -284,7 +284,7 @@
         "Price": 1214,
         "LocationID": "ko-lanta-krabi",
         "LocationName": "Ko Lanta, Krabi",
-        "ImagePath": "/images/hotels/ko-lanta-krabi/hotel-2.jpg",
+        "ImagePath": "/img/hotels/ko-lanta-krabi/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -293,7 +293,7 @@
         "Price": 1314,
         "LocationID": "ko-lanta-krabi",
         "LocationName": "Ko Lanta, Krabi",
-        "ImagePath": "/images/hotels/ko-lanta-krabi/hotel-3.jpg",
+        "ImagePath": "/img/hotels/ko-lanta-krabi/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -302,7 +302,7 @@
         "Price": 1414,
         "LocationID": "ko-lanta-krabi",
         "LocationName": "Ko Lanta, Krabi",
-        "ImagePath": "/images/hotels/ko-lanta-krabi/hotel-4.jpg",
+        "ImagePath": "/img/hotels/ko-lanta-krabi/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -311,7 +311,7 @@
         "Price": 1514,
         "LocationID": "ko-lanta-krabi",
         "LocationName": "Ko Lanta, Krabi",
-        "ImagePath": "/images/hotels/ko-lanta-krabi/hotel-5.jpg",
+        "ImagePath": "/img/hotels/ko-lanta-krabi/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -320,7 +320,7 @@
         "Price": 1110,
         "LocationID": "phanom-sni",
         "LocationName": "Phanom, Surat Thani",
-        "ImagePath": "/images/hotels/phanom-sni/hotel-1.jpg",
+        "ImagePath": "/img/hotels/phanom-sni/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -329,7 +329,7 @@
         "Price": 1210,
         "LocationID": "phanom-sni",
         "LocationName": "Phanom, Surat Thani",
-        "ImagePath": "/images/hotels/phanom-sni/hotel-2.jpg",
+        "ImagePath": "/img/hotels/phanom-sni/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -338,7 +338,7 @@
         "Price": 1310,
         "LocationID": "phanom-sni",
         "LocationName": "Phanom, Surat Thani",
-        "ImagePath": "/images/hotels/phanom-sni/hotel-3.jpg",
+        "ImagePath": "/img/hotels/phanom-sni/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -347,7 +347,7 @@
         "Price": 1410,
         "LocationID": "phanom-sni",
         "LocationName": "Phanom, Surat Thani",
-        "ImagePath": "/images/hotels/phanom-sni/hotel-4.jpg",
+        "ImagePath": "/img/hotels/phanom-sni/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -356,7 +356,7 @@
         "Price": 1510,
         "LocationID": "phanom-sni",
         "LocationName": "Phanom, Surat Thani",
-        "ImagePath": "/images/hotels/phanom-sni/hotel-5.jpg",
+        "ImagePath": "/img/hotels/phanom-sni/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -365,7 +365,7 @@
         "Price": 1112,
         "LocationID": "ko-samui-sni",
         "LocationName": "Ko Samui, Surat Thani",
-        "ImagePath": "/images/hotels/ko-samui-sni/hotel-1.jpg",
+        "ImagePath": "/img/hotels/ko-samui-sni/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -374,7 +374,7 @@
         "Price": 1212,
         "LocationID": "ko-samui-sni",
         "LocationName": "Ko Samui, Surat Thani",
-        "ImagePath": "/images/hotels/ko-samui-sni/hotel-2.jpg",
+        "ImagePath": "/img/hotels/ko-samui-sni/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -383,7 +383,7 @@
         "Price": 1312,
         "LocationID": "ko-samui-sni",
         "LocationName": "Ko Samui, Surat Thani",
-        "ImagePath": "/images/hotels/ko-samui-sni/hotel-3.jpg",
+        "ImagePath": "/img/hotels/ko-samui-sni/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -392,7 +392,7 @@
         "Price": 1412,
         "LocationID": "ko-samui-sni",
         "LocationName": "Ko Samui, Surat Thani",
-        "ImagePath": "/images/hotels/ko-samui-sni/hotel-4.jpg",
+        "ImagePath": "/img/hotels/ko-samui-sni/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -401,7 +401,7 @@
         "Price": 1512,
         "LocationID": "ko-samui-sni",
         "LocationName": "Ko Samui, Surat Thani",
-        "ImagePath": "/images/hotels/ko-samui-sni/hotel-5.jpg",
+        "ImagePath": "/img/hotels/ko-samui-sni/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -410,7 +410,7 @@
         "Price": 1113,
         "LocationID": "doi-saket-cnx",
         "LocationName": "Doi Saket, Chiang Mai",
-        "ImagePath": "/images/hotels/doi-saket-cnx/hotel-1.jpg",
+        "ImagePath": "/img/hotels/doi-saket-cnx/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -419,7 +419,7 @@
         "Price": 1213,
         "LocationID": "doi-saket-cnx",
         "LocationName": "Doi Saket, Chiang Mai",
-        "ImagePath": "/images/hotels/doi-saket-cnx/hotel-2.jpg",
+        "ImagePath": "/img/hotels/doi-saket-cnx/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -428,7 +428,7 @@
         "Price": 1313,
         "LocationID": "doi-saket-cnx",
         "LocationName": "Doi Saket, Chiang Mai",
-        "ImagePath": "/images/hotels/doi-saket-cnx/hotel-3.jpg",
+        "ImagePath": "/img/hotels/doi-saket-cnx/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -437,7 +437,7 @@
         "Price": 1413,
         "LocationID": "doi-saket-cnx",
         "LocationName": "Doi Saket, Chiang Mai",
-        "ImagePath": "/images/hotels/doi-saket-cnx/hotel-4.jpg",
+        "ImagePath": "/img/hotels/doi-saket-cnx/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -446,7 +446,7 @@
         "Price": 1513,
         "LocationID": "doi-saket-cnx",
         "LocationName": "Doi Saket, Chiang Mai",
-        "ImagePath": "/images/hotels/doi-saket-cnx/hotel-5.jpg",
+        "ImagePath": "/img/hotels/doi-saket-cnx/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -455,7 +455,7 @@
         "Price": 1111,
         "LocationID": "mae-rim-cnx",
         "LocationName": "Mae Rim, Chiang Mai",
-        "ImagePath": "/images/hotels/mae-rim-cnx/hotel-1.jpg",
+        "ImagePath": "/img/hotels/mae-rim-cnx/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -464,7 +464,7 @@
         "Price": 1211,
         "LocationID": "mae-rim-cnx",
         "LocationName": "Mae Rim, Chiang Mai",
-        "ImagePath": "/images/hotels/mae-rim-cnx/hotel-2.jpg",
+        "ImagePath": "/img/hotels/mae-rim-cnx/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -473,7 +473,7 @@
         "Price": 1311,
         "LocationID": "mae-rim-cnx",
         "LocationName": "Mae Rim, Chiang Mai",
-        "ImagePath": "/images/hotels/mae-rim-cnx/hotel-3.jpg",
+        "ImagePath": "/img/hotels/mae-rim-cnx/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -482,7 +482,7 @@
         "Price": 1411,
         "LocationID": "mae-rim-cnx",
         "LocationName": "Mae Rim, Chiang Mai",
-        "ImagePath": "/images/hotels/mae-rim-cnx/hotel-4.jpg",
+        "ImagePath": "/img/hotels/mae-rim-cnx/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -491,7 +491,7 @@
         "Price": 1511,
         "LocationID": "mae-rim-cnx",
         "LocationName": "Mae Rim, Chiang Mai",
-        "ImagePath": "/images/hotels/mae-rim-cnx/hotel-5.jpg",
+        "ImagePath": "/img/hotels/mae-rim-cnx/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -500,7 +500,7 @@
         "Price": 1113,
         "LocationID": "hang-dong-cnx",
         "LocationName": "Hang Dong, Chiang Mai",
-        "ImagePath": "/images/hotels/hang-dong-cnx/hotel-1.jpg",
+        "ImagePath": "/img/hotels/hang-dong-cnx/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -509,7 +509,7 @@
         "Price": 1213,
         "LocationID": "hang-dong-cnx",
         "LocationName": "Hang Dong, Chiang Mai",
-        "ImagePath": "/images/hotels/hang-dong-cnx/hotel-2.jpg",
+        "ImagePath": "/img/hotels/hang-dong-cnx/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -518,7 +518,7 @@
         "Price": 1313,
         "LocationID": "hang-dong-cnx",
         "LocationName": "Hang Dong, Chiang Mai",
-        "ImagePath": "/images/hotels/hang-dong-cnx/hotel-3.jpg",
+        "ImagePath": "/img/hotels/hang-dong-cnx/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -527,7 +527,7 @@
         "Price": 1413,
         "LocationID": "hang-dong-cnx",
         "LocationName": "Hang Dong, Chiang Mai",
-        "ImagePath": "/images/hotels/hang-dong-cnx/hotel-4.jpg",
+        "ImagePath": "/img/hotels/hang-dong-cnx/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -536,7 +536,7 @@
         "Price": 1513,
         "LocationID": "hang-dong-cnx",
         "LocationName": "Hang Dong, Chiang Mai",
-        "ImagePath": "/images/hotels/hang-dong-cnx/hotel-5.jpg",
+        "ImagePath": "/img/hotels/hang-dong-cnx/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -545,7 +545,7 @@
         "Price": 1113,
         "LocationID": "chum-phae-kkn",
         "LocationName": "Chum Phae, Khon Kaen",
-        "ImagePath": "/images/hotels/chum-phae-kkn/hotel-1.jpg",
+        "ImagePath": "/img/hotels/chum-phae-kkn/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -554,7 +554,7 @@
         "Price": 1213,
         "LocationID": "chum-phae-kkn",
         "LocationName": "Chum Phae, Khon Kaen",
-        "ImagePath": "/images/hotels/chum-phae-kkn/hotel-2.jpg",
+        "ImagePath": "/img/hotels/chum-phae-kkn/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -563,7 +563,7 @@
         "Price": 1313,
         "LocationID": "chum-phae-kkn",
         "LocationName": "Chum Phae, Khon Kaen",
-        "ImagePath": "/images/hotels/chum-phae-kkn/hotel-3.jpg",
+        "ImagePath": "/img/hotels/chum-phae-kkn/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -572,7 +572,7 @@
         "Price": 1413,
         "LocationID": "chum-phae-kkn",
         "LocationName": "Chum Phae, Khon Kaen",
-        "ImagePath": "/images/hotels/chum-phae-kkn/hotel-4.jpg",
+        "ImagePath": "/img/hotels/chum-phae-kkn/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -581,7 +581,7 @@
         "Price": 1513,
         "LocationID": "chum-phae-kkn",
         "LocationName": "Chum Phae, Khon Kaen",
-        "ImagePath": "/images/hotels/chum-phae-kkn/hotel-5.jpg",
+        "ImagePath": "/img/hotels/chum-phae-kkn/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -590,7 +590,7 @@
         "Price": 1111,
         "LocationID": "sai-yok-kan",
         "LocationName": "Sai Yok, Kanchanaburi",
-        "ImagePath": "/images/hotels/sai-yok-kan/hotel-1.jpg",
+        "ImagePath": "/img/hotels/sai-yok-kan/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -599,7 +599,7 @@
         "Price": 1211,
         "LocationID": "sai-yok-kan",
         "LocationName": "Sai Yok, Kanchanaburi",
-        "ImagePath": "/images/hotels/sai-yok-kan/hotel-2.jpg",
+        "ImagePath": "/img/hotels/sai-yok-kan/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -608,7 +608,7 @@
         "Price": 1311,
         "LocationID": "sai-yok-kan",
         "LocationName": "Sai Yok, Kanchanaburi",
-        "ImagePath": "/images/hotels/sai-yok-kan/hotel-3.jpg",
+        "ImagePath": "/img/hotels/sai-yok-kan/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -617,7 +617,7 @@
         "Price": 1411,
         "LocationID": "sai-yok-kan",
         "LocationName": "Sai Yok, Kanchanaburi",
-        "ImagePath": "/images/hotels/sai-yok-kan/hotel-4.jpg",
+        "ImagePath": "/img/hotels/sai-yok-kan/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -626,7 +626,7 @@
         "Price": 1511,
         "LocationID": "sai-yok-kan",
         "LocationName": "Sai Yok, Kanchanaburi",
-        "ImagePath": "/images/hotels/sai-yok-kan/hotel-5.jpg",
+        "ImagePath": "/img/hotels/sai-yok-kan/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -635,7 +635,7 @@
         "Price": 1112,
         "LocationID": "khao-kho-pnb",
         "LocationName": "Khao Kho, Phetchabun",
-        "ImagePath": "/images/hotels/khao-kho-pnb/hotel-1.jpg",
+        "ImagePath": "/img/hotels/khao-kho-pnb/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -644,7 +644,7 @@
         "Price": 1212,
         "LocationID": "khao-kho-pnb",
         "LocationName": "Khao Kho, Phetchabun",
-        "ImagePath": "/images/hotels/khao-kho-pnb/hotel-2.jpg",
+        "ImagePath": "/img/hotels/khao-kho-pnb/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -653,7 +653,7 @@
         "Price": 1312,
         "LocationID": "khao-kho-pnb",
         "LocationName": "Khao Kho, Phetchabun",
-        "ImagePath": "/images/hotels/khao-kho-pnb/hotel-3.jpg",
+        "ImagePath": "/img/hotels/khao-kho-pnb/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -662,7 +662,7 @@
         "Price": 1412,
         "LocationID": "khao-kho-pnb",
         "LocationName": "Khao Kho, Phetchabun",
-        "ImagePath": "/images/hotels/khao-kho-pnb/hotel-4.jpg",
+        "ImagePath": "/img/hotels/khao-kho-pnb/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -671,7 +671,7 @@
         "Price": 1512,
         "LocationID": "khao-kho-pnb",
         "LocationName": "Khao Kho, Phetchabun",
-        "ImagePath": "/images/hotels/khao-kho-pnb/hotel-5.jpg",
+        "ImagePath": "/img/hotels/khao-kho-pnb/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -680,7 +680,7 @@
         "Price": 1111,
         "LocationID": "mae-sot-tak",
         "LocationName": "Mae Sot, Tak",
-        "ImagePath": "/images/hotels/mae-sot-tak/hotel-1.jpg",
+        "ImagePath": "/img/hotels/mae-sot-tak/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -689,7 +689,7 @@
         "Price": 1211,
         "LocationID": "mae-sot-tak",
         "LocationName": "Mae Sot, Tak",
-        "ImagePath": "/images/hotels/mae-sot-tak/hotel-2.jpg",
+        "ImagePath": "/img/hotels/mae-sot-tak/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -698,7 +698,7 @@
         "Price": 1311,
         "LocationID": "mae-sot-tak",
         "LocationName": "Mae Sot, Tak",
-        "ImagePath": "/images/hotels/mae-sot-tak/hotel-3.jpg",
+        "ImagePath": "/img/hotels/mae-sot-tak/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -707,7 +707,7 @@
         "Price": 1411,
         "LocationID": "mae-sot-tak",
         "LocationName": "Mae Sot, Tak",
-        "ImagePath": "/images/hotels/mae-sot-tak/hotel-4.jpg",
+        "ImagePath": "/img/hotels/mae-sot-tak/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -716,7 +716,7 @@
         "Price": 1511,
         "LocationID": "mae-sot-tak",
         "LocationName": "Mae Sot, Tak",
-        "ImagePath": "/images/hotels/mae-sot-tak/hotel-5.jpg",
+        "ImagePath": "/img/hotels/mae-sot-tak/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -725,7 +725,7 @@
         "Price": 1113,
         "LocationID": "sam-phran-npt",
         "LocationName": "Sam Phran, Nakhon Pathom",
-        "ImagePath": "/images/hotels/sam-phran-npt/hotel-1.jpg",
+        "ImagePath": "/img/hotels/sam-phran-npt/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -734,7 +734,7 @@
         "Price": 1213,
         "LocationID": "sam-phran-npt",
         "LocationName": "Sam Phran, Nakhon Pathom",
-        "ImagePath": "/images/hotels/sam-phran-npt/hotel-2.jpg",
+        "ImagePath": "/img/hotels/sam-phran-npt/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -743,7 +743,7 @@
         "Price": 1313,
         "LocationID": "sam-phran-npt",
         "LocationName": "Sam Phran, Nakhon Pathom",
-        "ImagePath": "/images/hotels/sam-phran-npt/hotel-3.jpg",
+        "ImagePath": "/img/hotels/sam-phran-npt/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -752,7 +752,7 @@
         "Price": 1413,
         "LocationID": "sam-phran-npt",
         "LocationName": "Sam Phran, Nakhon Pathom",
-        "ImagePath": "/images/hotels/sam-phran-npt/hotel-4.jpg",
+        "ImagePath": "/img/hotels/sam-phran-npt/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -761,7 +761,7 @@
         "Price": 1513,
         "LocationID": "sam-phran-npt",
         "LocationName": "Sam Phran, Nakhon Pathom",
-        "ImagePath": "/images/hotels/sam-phran-npt/hotel-5.jpg",
+        "ImagePath": "/img/hotels/sam-phran-npt/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -770,7 +770,7 @@
         "Price": 1113,
         "LocationID": "bang-pain-ayt",
         "LocationName": "Bang Pa-In, Phra Nakhon Si Ayutthaya",
-        "ImagePath": "/images/hotels/bang-pain-ayt/hotel-1.jpg",
+        "ImagePath": "/img/hotels/bang-pain-ayt/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -779,7 +779,7 @@
         "Price": 1213,
         "LocationID": "bang-pain-ayt",
         "LocationName": "Bang Pa-In, Phra Nakhon Si Ayutthaya",
-        "ImagePath": "/images/hotels/bang-pain-ayt/hotel-2.jpg",
+        "ImagePath": "/img/hotels/bang-pain-ayt/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -788,7 +788,7 @@
         "Price": 1313,
         "LocationID": "bang-pain-ayt",
         "LocationName": "Bang Pa-In, Phra Nakhon Si Ayutthaya",
-        "ImagePath": "/images/hotels/bang-pain-ayt/hotel-3.jpg",
+        "ImagePath": "/img/hotels/bang-pain-ayt/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -797,7 +797,7 @@
         "Price": 1413,
         "LocationID": "bang-pain-ayt",
         "LocationName": "Bang Pa-In, Phra Nakhon Si Ayutthaya",
-        "ImagePath": "/images/hotels/bang-pain-ayt/hotel-4.jpg",
+        "ImagePath": "/img/hotels/bang-pain-ayt/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -806,7 +806,7 @@
         "Price": 1513,
         "LocationID": "bang-pain-ayt",
         "LocationName": "Bang Pa-In, Phra Nakhon Si Ayutthaya",
-        "ImagePath": "/images/hotels/bang-pain-ayt/hotel-5.jpg",
+        "ImagePath": "/img/hotels/bang-pain-ayt/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -815,7 +815,7 @@
         "Price": 1111,
         "LocationID": "damnoen-rbr",
         "LocationName": "Damnoen Saduak, Ratchaburi",
-        "ImagePath": "/images/hotels/damnoen-rbr/hotel-1.jpg",
+        "ImagePath": "/img/hotels/damnoen-rbr/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -824,7 +824,7 @@
         "Price": 1211,
         "LocationID": "damnoen-rbr",
         "LocationName": "Damnoen Saduak, Ratchaburi",
-        "ImagePath": "/images/hotels/damnoen-rbr/hotel-2.jpg",
+        "ImagePath": "/img/hotels/damnoen-rbr/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -833,7 +833,7 @@
         "Price": 1311,
         "LocationID": "damnoen-rbr",
         "LocationName": "Damnoen Saduak, Ratchaburi",
-        "ImagePath": "/images/hotels/damnoen-rbr/hotel-3.jpg",
+        "ImagePath": "/img/hotels/damnoen-rbr/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -842,7 +842,7 @@
         "Price": 1411,
         "LocationID": "damnoen-rbr",
         "LocationName": "Damnoen Saduak, Ratchaburi",
-        "ImagePath": "/images/hotels/damnoen-rbr/hotel-4.jpg",
+        "ImagePath": "/img/hotels/damnoen-rbr/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -851,7 +851,7 @@
         "Price": 1511,
         "LocationID": "damnoen-rbr",
         "LocationName": "Damnoen Saduak, Ratchaburi",
-        "ImagePath": "/images/hotels/damnoen-rbr/hotel-5.jpg",
+        "ImagePath": "/img/hotels/damnoen-rbr/hotel-5.jpg",
         "RoomType": "Bungalow"
     },
     {
@@ -860,7 +860,7 @@
         "Price": 1111,
         "LocationID": "mae-sai-cri",
         "LocationName": "Mae Sai, Chiang Rai",
-        "ImagePath": "/images/hotels/mae-sai-cri/hotel-1.jpg",
+        "ImagePath": "/img/hotels/mae-sai-cri/hotel-1.jpg",
         "RoomType": "Standard"
     },
     {
@@ -869,7 +869,7 @@
         "Price": 1211,
         "LocationID": "mae-sai-cri",
         "LocationName": "Mae Sai, Chiang Rai",
-        "ImagePath": "/images/hotels/mae-sai-cri/hotel-2.jpg",
+        "ImagePath": "/img/hotels/mae-sai-cri/hotel-2.jpg",
         "RoomType": "Deluxe"
     },
     {
@@ -878,7 +878,7 @@
         "Price": 1311,
         "LocationID": "mae-sai-cri",
         "LocationName": "Mae Sai, Chiang Rai",
-        "ImagePath": "/images/hotels/mae-sai-cri/hotel-3.jpg",
+        "ImagePath": "/img/hotels/mae-sai-cri/hotel-3.jpg",
         "RoomType": "Suite"
     },
     {
@@ -887,7 +887,7 @@
         "Price": 1411,
         "LocationID": "mae-sai-cri",
         "LocationName": "Mae Sai, Chiang Rai",
-        "ImagePath": "/images/hotels/mae-sai-cri/hotel-4.jpg",
+        "ImagePath": "/img/hotels/mae-sai-cri/hotel-4.jpg",
         "RoomType": "Superior"
     },
     {
@@ -896,7 +896,7 @@
         "Price": 1511,
         "LocationID": "mae-sai-cri",
         "LocationName": "Mae Sai, Chiang Rai",
-        "ImagePath": "/images/hotels/mae-sai-cri/hotel-5.jpg",
+        "ImagePath": "/img/hotels/mae-sai-cri/hotel-5.jpg",
         "RoomType": "Bungalow"
     }
 ]

@@ -8,6 +8,13 @@ export const getHotelByLocationID = (req, res) => {
     res.json(item);
 };
 
+export const getHotelByID = (req, res) => {
+    console.log("getHotelByID controller: ", req.body.ID);
+    const item = services.getHotelByID(String(req.body.ID));
+    if (!item) return res.status(404).json({ message: "Not found" });
+    res.json(item);
+};
+
 // export const create = (req, res) => {
 //     const { name, price } = req.body || {};
 //     if (!name || typeof price !== "number")

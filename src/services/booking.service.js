@@ -10,6 +10,13 @@ export const getHotelByLocationID = (id) => {
     return hotelLists.filter(p => p.LocationID === locationID);
 }
 
+export const getHotelByID = (id) => {
+    console.log("getHotelByID service: ", id);
+    const hotelID = String(id);
+    // console.log("getHotelByLocationID service: ", hotelLists.filter(p => p.LocationID === locationID));
+    return hotelLists.filter(p => p.ID === hotelID);
+}
+
 
 // export const create = ({ name, price }) => {
 //   const item = { id: seq++, name, price };
