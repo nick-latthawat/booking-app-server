@@ -6,35 +6,24 @@ export const list = () => hotelLists;
 
 export const getHotelByLocationID = (id) => {
     const locationID = String(id);
-    // console.log("getHotelByLocationID service: ", hotelLists.filter(p => p.LocationID === locationID));
     return hotelLists.filter(p => p.LocationID === locationID);
 }
 
 export const getHotelByID = (id) => {
-    console.log("getHotelByID service: ", id);
     const hotelID = String(id);
-    // console.log("getHotelByLocationID service: ", hotelLists.filter(p => p.LocationID === locationID));
     return hotelLists.filter(p => p.ID === hotelID);
 }
 
+export const calculatePayment = ({ id, type, amount }) => {
+    const hotelID = String(id);
+    const roomType = String(type);
+    const nightAmount = String(amount);
+    let price = 0;
+    const hotel = hotelLists.find((p) => p.ID === hotelID);
 
-// export const create = ({ name, price }) => {
-//   const item = { id: seq++, name, price };
-//   products.push(item);
-//   return item;
-// };
+    if (hotel) {
+        price = Number(hotel.Price);
+    }
 
-// export const update = (id, { name, price }) => {
-//   const idx = products.findIndex(p => p.id === id);
-//   if (idx === -1) return null;
-//   if (name !== undefined) products[idx].name = name;
-//   if (price !== undefined) products[idx].price = price;
-//   return products[idx];
-// };
-
-// export const remove = (id) => {
-//   const idx = products.findIndex(p => p.id === id);
-//   if (idx === -1) return null;
-//   const [rm] = products.splice(idx, 1);
-//   return rm;
-// };
+    return price * nightAmount;
+}

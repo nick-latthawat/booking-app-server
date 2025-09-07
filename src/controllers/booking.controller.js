@@ -9,28 +9,29 @@ export const getHotelByLocationID = (req, res) => {
 };
 
 export const getHotelByID = (req, res) => {
-    console.log("getHotelByID controller: ", req.body.ID);
     const item = services.getHotelByID(String(req.body.ID));
     if (!item) return res.status(404).json({ message: "Not found" });
     res.json(item);
 };
 
-// export const create = (req, res) => {
-//     const { name, price } = req.body || {};
-//     if (!name || typeof price !== "number")
-//         return res.status(400).json({ message: "name (string) & price (number) required" });
-//     const created = services.create({ name, price });
-//     res.status(201).json(created);
-// };
+export const calculatePayment = (req, res) => {
+    const { ID, RoomType, NightAmount } = req.body || {};
+    if (!ID || !RoomType || !NightAmount) {
+        return res.status(400).json({ message: "ID, RoomType, NightAmount required" });
+    }
 
-// export const update = (req, res) => {
-//     const updated = services.update(Number(req.params.id), req.body || {});
-//     if (!updated) return res.status(404).json({ message: "Not found" });
-//     res.json(updated);
-// };
+    const data = {
+        id: ID,
+        type: RoomType,
+        amount: NightAmount
+    }
 
-// export const remove = (req, res) => {
-//     const removed = services.remove(Number(req.params.id));
-//     if (!removed) return res.status(404).json({ message: "Not found" });
-//     res.json(removed);
-// };
+    const cal = services.calculatePayment({
+        id: ID,
+        type: RoomType,
+        amount: NightAmount,
+    });
+    res.status(201).json(cal);
+};
+
+
